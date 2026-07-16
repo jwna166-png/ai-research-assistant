@@ -13,15 +13,15 @@ An autonomous research assistant agent built with **LangChain + Claude (Anthropi
 
 **1. The agent receives a query and autonomously invokes the Wikipedia and search tools:**
 
-![Agent running](assets/demo-1-agent-running.png)
+![Agent running](demo-1-agent-running.png)
 
 **2. The agent finishes reasoning, saves the result, and returns a structured output:**
 
-![Structured output](assets/demo-2-structured-output.png)
+![Structured output](demo-2-structured-output.png)
 
 **3. The saved research file:**
 
-![Saved file](assets/demo-3-saved-file.png)
+![Saved file](demo-3-saved-file.png)
 
 ## 🛠 Tech Stack
 
